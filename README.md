@@ -6,6 +6,14 @@ Anthar-Jala Watch helps monitor borewell data, visualize groundwater stress regi
 
 ---
 
+## 🤖App Link
+
+```bash
+https://drive.google.com/file/d/1vBrF716za9NCEB6RUu_YSLd16bF9eYqL/view?usp=sharing
+```
+
+---
+
 ## 📱 Features
 
 ### 🌍 Real-Time Groundwater Mapping
