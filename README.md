@@ -14,6 +14,11 @@ https://drive.google.com/file/d/1vBrF716za9NCEB6RUu_YSLd16bF9eYqL/view?usp=shari
 
 ---
 
+## ❗ Instruction
+Turn on your mobile location to add borewell data
+
+---
+
 ## 📱 Features
 
 ### 🌍 Real-Time Groundwater Mapping
