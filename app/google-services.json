@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "990561250480",
+    "project_id": "antharjalawatch-9f847",
+    "storage_bucket": "antharjalawatch-9f847.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990561250480:android:84a4ad9b394f72626ddf75",
+        "android_client_info": {
+          "package_name": "com.example.antharjalawatch"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcfuT2vuIlCEOlbFjBfpL5p507R3nIlbE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
