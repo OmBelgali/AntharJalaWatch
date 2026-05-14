@@ -16,7 +16,7 @@
         android:theme="@style/Theme.AntharJalaWatch">
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyBDDCCABgwqFRfl4WD9RUxYl8uP_2YfnCw"/>
+            android:value="YOUR_GOOGLE_API"/>
         <activity
             android:name=".MainActivity"
             android:exported="true"
