@@ -119,3 +119,59 @@ Displays:
 - eco heat zones
 - groundwater intensity
 - area-based monitoring
+
+---
+
+### 🔗 Clone Repository
+
+```bash
+git clone https://github.com/OmBelgali/AntharJalaWatch.git
+```
+
+---
+
+### Open in Android Studio
+Open project folder in:
+Android Studio Pandas 4 or newer
+
+---
+
+## 🔥 Add Firebase
+- Create Firebase project
+- Add Android app
+- Download ```google-services.json```
+- Place inside:
+```bash
+app/
+```
+
+---
+
+## Add Google Maps API Key
+Inside AndroidManifest.xml:
+```bash
+<meta-data
+    android:name="com.google.android.geo.API_KEY"
+    android:value="YOUR_API_KEY"/>
+```
+
+---
+
+## ▶️ Run Project
+```bash
+Build → Run App
+```
+OR generate APK:
+```bash
+Build → Build APK(s)
+```
+---
+
+### 🎯 Project Objective
+
+Anthar-Jala Watch aims to support:
+- groundwater sustainability
+- environmental monitoring
+- community water awareness
+- eco-friendly resource management
+- through smart digital analytics and visualization.
